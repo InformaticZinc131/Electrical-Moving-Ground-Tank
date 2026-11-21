@@ -112,8 +112,43 @@ Si el tanque eléctrico no realiza el viraje o movimiento esperado, siga este di
 | **Zumbador de alarma activo** | Sobrecorriente o pérdida de fase | Detener el equipo, verificar bloqueos en las ruedas y revisar las conexiones de los cables del controlador[cite: 7]. |
 
 ---
+## 6. Especificaciones y Seguridad de la Batería
 
-## 6. Almacenamiento y Mantenimiento Preventivo
+A continuación se detallan los parámetros eléctricos nominales y las normas de seguridad indicadas en la etiqueta de la batería del equipo:
+
+### Datos Técnicos y Certificado de Calidad
+
+| Parámetro / Campo | Valor de Etiqueta |
+| :--- | :--- |
+| **Nombre del producto** | Batería de litio de potencia industrial para equipo |
+| **Marca de celdas** | 中航 (CALB)[cite: 29] |
+| **Modelo / Especificación** | 48V 60Ah[cite: 29] |
+| **Tensión de trabajo** | 39 V – 54,6 V[cite: 29] |
+| **Corriente de trabajo** | 10 – 100 A[cite: 29] |
+| **Tensión de carga** | 54,6 V[cite: 29] |
+| **Norma de ejecución** | GB/T 36672-2018[cite: 29] |
+| **Fecha de producción** | 2026-07-21[cite: 29] |
+| **Inspector** | 01[cite: 29] |
+
+---
+
+### Advertencias de Seguridad (Warning)
+
+| Precaución / Regla | Indicación de la Etiqueta |
+| :--- | :--- |
+| **Cobertura de seguro** | Este producto cuenta con póliza de seguro de compañía aseguradora en China[cite: 29]. |
+| **No abrir la batería** | No abra ni desarme la batería por cuenta propia; abrirla anula la garantía[cite: 29]. |
+| **Almacenamiento prolongado** | Mantener lejos del agua y la humedad; para almacenamiento prolongado, conservar a aproximadamente **60 %** de carga[cite: 29]. |
+| **Temperatura y fuego** | No colocar en zonas de alta temperatura ni arrojar al fuego o fuentes de calor (riesgo de incendio/explosión)[cite: 29]. |
+| **Cargador y polaridad** | Usar únicamente el cargador dedicado para baterías de litio; no invertir los polos positivo y negativo[cite: 29]. |
+| **Daños por impacto o caída** | Evitar golpes fuertes, compresión o caídas de la batería (riesgo de daño interno o incendio)[cite: 29]. |
+| **Entorno de carga** | Al cargar, retirar o mantener libre de materiales combustibles/inflamables a al menos **2 metros** alrededor; prohibido cargar cerca de materiales inflamables o en interiores no aptos[cite: 29]. |
+| **Batería dañada o abultada** | Si la batería presenta deformación/abultamiento o daño severo, suspender su uso de inmediato[cite: 29]. |
+| **Carga segura** | Para cargar, extraer o aislar el pack según corresponda y cargar a al menos **2 metros** de materiales inflamables; no usar clavos/puntas metálicas ni cargar en reversa[cite: 29]. |
+
+---
+
+## 7. Almacenamiento y Mantenimiento Preventivo
 
 * **Lugar de Almacenamiento:** Guardar en un espacio seco, ventilado, alejado de la luz solar directa y libre de sustancias corrosivas[cite: 3].
 * **Cuidado de Baterías:** Si el equipo permanecerá fuera de servicio por un período prolongado, asegúrese de almacenar la batería con un nivel de carga no inferior al **60%**[cite: 3].
