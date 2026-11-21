@@ -1,4 +1,4 @@
-<!-- Encabezado / Portada con QR incrustado -->
+<!-- Encabezado -->
 <div align="center">
   <h1>Manual de Uso y Operación</h1>
   <h2>Electric Moving Ground Tank</h2>
@@ -33,18 +33,18 @@ El **Electric Moving Ground Tank** es un vehículo de transporte pesado de accio
 
 ## 3. Disposición del Control Remoto e Indicadores
 
-Según el transmisor intalado en el equipo, será el mando a utilizar. Ambos mandos comparten las misma configuracion de botones y palancas con sus respectivas funciones.
+Según el transmisor instalado en el equipo, será el mando a utilizar. Ambos mandos son similares en cuanto a las configuraciones de sus botones y palancas.
 
 * **Parada de Emergencia:** Botón rojo de corte inmediato (`C`). Debe estar liberado para permitir el movimiento.
-* **Encendido (`Power`):** Pulsador central de alimentación del transmisor (`B` en el control azul; `F` en el control rojo).
-* **Regulador de Velocidad:** Perilla graduada para limitar la velocidad máxima (`F`).
+* **Encendido (`Power`):** Pulsador central de alimentación del transmisor `F`.
+* **Regulador de Velocidad:** Perilla graduada para limitar la velocidad máxima (`B`).
 * **Joysticks de Marcha:** Controlan avance/retroceso (`D`).
 * **Joysticks de Giro:** Controlan dirección/rotación (`E`).
-  * Para realizar un giro en el avance, hacia la izquierda, el joystick `D` se empuja hacia arriba y el joystick `E` se empuja hacia la izquierda. 
-  * Para realizar un giro en el avance, hacia la derecha, el joystick `D` se empuja hacia abajo, el joystick `E` se empuja hacia la derecha para girar a la derecha. 
-  * Para realizar un giro sobre su propio centro geometrico, el joystick `D` debe estar en la posición central y el joystick `E` se debe empujar hacia la izquierda/derecha y el tanque gira en su lugar hacia la izquierda/derecha.
-* **Llave de velocidad constante:** Al empujar el joystick `D`, acciona el interrupto `I` empujandola hacia arriba, este después volverá automáticamente a su posición original al soltarlo. En este momento, la máquina se seguira moviendo con su velocidad actual. Pudes empujar el joystick `E` hacia la izquierda o hacia la derecha para que la máquina gire sin afectar su velocidad de desplazamiento.
-  * Para cancelar de velocidad constante; empuja suavemente el joystick `D` hacia arriba o hacia abajo. 
+  * Para realizar un giro en el avance, hacia la izquierda, el joystick `D` se empuja hacia arriba y el joystick `E` se empuja hacia la izquierda.
+  * Para realizar un giro en el avance, hacia la derecha, el joystick `D` se empuja hacia arriba y el joystick `E` se empuja hacia la derecha para girar a la derecha.
+  * Para realizar un giro sobre su propio centro geométrico, el joystick `D` debe estar en la posición central y el joystick `E` se debe empujar hacia la izquierda/derecha y el tanque gira en su lugar hacia la izquierda/derecha.
+* **Llave de velocidad constante:** Al empujar el joystick `D`, acciona el interruptor `I` empujandolo hacia arriba, este después volverá automáticamente a su posición original al soltarlo. En este momento, la máquina se seguirá moviendo con su velocidad actual. Puedes empujar el joystick `E` hacia la izquierda o hacia la derecha para que la máquina gire sin afectar su velocidad de desplazamiento.
+  * Para cancelar la velocidad constante, empuja suavemente el joystick `D` hacia arriba o hacia abajo. 
 * **Indicadores de Estado:** Señales luminosas de enlace/transmisión y estado de batería (`A` y `H`).
 
 * **Llave de luces:** Interruptor de iluminación (solo en control rojo).
@@ -67,28 +67,28 @@ Según el transmisor intalado en el equipo, será el mando a utilizar. Ambos man
 
 ## 4. Procedimiento de Operación Paso a Paso
 
-1. **Encendido:** Conecta la batería, encende la llave de potencia principal y verificar la luz de estado.
+1. **Encendido:** Conecta la batería, enciende la llave de potencia principal y verifica la luz de estado.
 
 <p align="center">
   <img src="Assets/Termica.jpeg" alt="Accionamiento de protección térmica y ventilación" width="380"><br>
-  <em>Figura 4. Ubicación de ventilación/conexión y accionamiento de la llave de corte (Detalle A).</em>
+  <em>Figura 4. Accionamiento de la llave de corte (Detalle A).</em>
 </p>
 
-2. **Elevación, Posicionamiento y Asentamiento:** Utilizar un gato hidráulico para elevar la carga. Desliza el tanque por debajo de la carga asegurando que el centro de gravedad del objeto coincida con el centro del plato giratorio del equipo. Baja lentamente la carga garantizando que las ruedas asienten firmemente.
-4. **Desplazamiento y arranque:** Operar el radiocontrol comenzando a baja velocidad. Mantenen la velocidad constante y evita giros bruscos durante el trayecto.
-5. **Estacionamiento y Descarga:** Al llegar a destino, deten el equipo, eleva la carga con el gato hidráulico, retirar el tanque y asegurar la carga sobre el suelo.
+2. **Elevación, Posicionamiento y Asentamiento:** Utiliza un gato hidráulico para elevar la carga. Desliza el tanque por debajo de la carga asegurando que el centro de gravedad del objeto coincida con el centro del plato giratorio del equipo. Baja lentamente la carga garantizando que las ruedas asienten firmemente.
+3. **Desplazamiento y arranque:** Opera el radiocontrol comenzando a baja velocidad. Mantén la velocidad constante y evita giros bruscos durante el trayecto.
+4. **Estacionamiento y Descarga:** Al llegar a destino, detén el equipo, eleva la carga con el gato hidráulico, retira el tanque y asegura la carga sobre el suelo.
 
 > **ADVERTENCIA DE SEGURIDAD:** 
 > * NO realice maniobras de cambio de dirección mientras el equipo esté acelerando bruscamente a máxima carga.
 > * NO retires los dos topes de la plataforma giratoria durante el movimiento.
 > * El equipo NO debe utilizarse como soporte estático permanente para soportar peso por largos períodos de tiempo.
-> * Durante el transporta, la batería del tanque no deben colocarse debajo de la carga. 
+> * Durante el transporte, el módulo/cuerpo que aloja la batería no debe quedar posicionado debajo de la carga.
 
 ---
 
 ## 5. Guía de Solución de Problemas
 
-Si el tanque eléctrico no realiza el viraje o movimiento esperado, siga este diagrama de diagnóstico básico:
+Si el tanque eléctrico no realiza el viraje o movimiento esperado, siga esta tabla de diagnóstico básico:
 
 | Problema | Causa Probable | Verificación / Solución |
 | :--- | :--- | :--- |
@@ -101,12 +101,12 @@ Si el tanque eléctrico no realiza el viraje o movimiento esperado, siga este di
 ## 6. Almacenamiento y Mantenimiento Preventivo
 
 * **Lugar de Almacenamiento:** Guardar en un espacio seco, ventilado, alejado de la luz solar directa y libre de sustancias corrosivas.
-* **Cuidado de Baterías:** Si el equipo permanecerá fuera de servicio por un período prolongado, asegúrese de almacenar la batería con un nivel de carga no inferior al **60%**.
+* **Cuidado de Baterías:** Si el equipo permanecerá fuera de servicio por un período prolongado, asegúrese de almacenar la batería con un nivel de carga no inferior al **60 %**.
 
 ## 7. Manejo de situaciones de emergencia
 
 * En caso de mal funcionamiento repentino o inclinación/vuelco de la carga, detenga inmediatamente la operación, evacue al personal circundante y notifique al personal profesional/especializado para su manejo.
-* Si hay personal herido, busque atención médica de inmediato y active los planes de emergencia. 
+* Si hay personal herido, busque atención médica de inmediato y active los planes de emergencia.
 
 ---
 ## 8. Especificaciones y Seguridad de la Batería
@@ -119,9 +119,9 @@ A continuación se detallan los parámetros eléctricos nominales y las normas d
 | :--- | :--- |
 | **Marca de celdas** | 中航 (CALB)|
 | **Modelo / Especificación** | 48V 60Ah|
-| **Tensión de trabajo** | 39 V – 54,6 V|
+| **Tensión de trabajo** | 39 V – 54.6 V|
 | **Corriente de trabajo** | 10 – 100 A|
-| **Tensión de carga** | 54,6 V|
+| **Tensión de carga** | 54.6 V|
 | **Norma de ejecución** | GB/T 36672-2018|
 | **Fecha de producción** | 2026-07-21 |
 | **Inspector** | 01 |
@@ -130,11 +130,10 @@ A continuación se detallan los parámetros eléctricos nominales y las normas d
 
 | Precaución / Regla | Indicación de la Etiqueta |
 | :--- | :--- |
-| **Cobertura de seguro** | Este producto cuenta con póliza de seguro de compañía aseguradora en China. |
 | **No abrir la batería** | No abra ni desarme la batería por cuenta propia; abrirla anula la garantía. |
 | **Almacenamiento prolongado** | Mantener lejos del agua y la humedad; para almacenamiento prolongado, conservar a aproximadamente **60 %** de carga. |
 | **Temperatura y fuego** | No colocar en zonas de alta temperatura ni arrojar al fuego o fuentes de calor (riesgo de incendio/explosión). |
 | **Cargador y polaridad** | Usar únicamente el cargador dedicado para baterías de litio; no invertir los polos positivo y negativo. |
 | **Daños por impacto o caída** | Evitar golpes fuertes, compresión o caídas de la batería (riesgo de daño interno o incendio). |
-| **Entorno de carga** | Al cargar, retirar o mantener libre de materiales combustibles/inflamables a al menos **2 metros** alrededor; prohibido cargar cerca de materiales inflamables o en interiores no aptos |
-| **Batería dañada o abultada** | Si la batería presenta deformación/abultamiento o daño severo, suspender su uso de inmediato |
+| **Entorno de carga** | Al cargar, retirar o mantener libre de materiales combustibles/inflamables a al menos **2 metros** alrededor; prohibido cargar cerca de materiales inflamables o en interiores no aptos. |
+| **Batería dañada o abultada** | Si la batería presenta deformación/abultamiento o daño severo, suspender su uso de inmediato. |
